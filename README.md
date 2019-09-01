@@ -8,4 +8,4 @@ NavigationView ,NavigationLink, VStack, HStack,ZStack, Image, ScrollView, JSONDe
 
 ## Screenshot
 
-![image](https://github.com/ly05010419/ObservedObjectTest/blob/master/screenshot.png?raw=true)
+![image](https://github.com/ly05010419/CoffeeApp/blob/master/screenshot.png?raw=true)

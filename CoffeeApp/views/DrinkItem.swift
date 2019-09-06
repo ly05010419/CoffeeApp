@@ -16,6 +16,7 @@ struct DrinkItem: View {
             
             NavigationLink(destination: DetailView(drink: drink)) {
                 Image(drink.imageName)
+                    .renderingMode(.original)
                     .resizable()
                     .aspectRatio(contentMode:.fill)
                     .cornerRadius(10)
